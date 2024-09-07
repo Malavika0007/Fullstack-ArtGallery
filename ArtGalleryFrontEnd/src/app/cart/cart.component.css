@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.cart {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  background-color: #fff; /* Background color for cart section */
+  border: 2px solid #1f13c4; /* Pastel border color */
+}
+
+.cart h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #333;
+  /* Gradient for heading text */
+  background: linear-gradient(to right, #420750, #420750);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; /* Transparent text with gradient */
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  border-bottom: 1px solid #f5f5f5; /* Lighter divider line */
+}
+
+.cart-item:hover {
+  background-color: #e17df7; /* Lighter background on hover */
+  cursor: pointer; /* Indicate clickable items (optional) */
+}
+
+.cart-item img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  margin-right: 20px;
+  border-radius: 5px; /* Rounded image corners */
+}
+
+.cart-item h5,
+.cart-item p {
+  margin: 0;
+}
+
+.cart-item p {
+  color: #888;
+  font-size: 14px; /* Adjust price text size */
+}
+
+@media (max-width: 768px) {
+  .cart-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .cart-item img {
+    width: 180px; /* Adjust image size for smaller screens */
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .cart h2 {
+    font-size: 20px; /* Adjust heading size for very small screens */
+  }
+}
+.checkout-btn {
+  background-color: #38b000; /* Green color */
+  color: #fff; /* White text color */
+  padding: 15px 30px; /* Adjust padding for desired button size */
+  border: none;
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer;
+  font-size: 16px; /* Adjust font size for button text */
+  text-align: center; /* Center text within the button */
+  transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out; /* Smooth hover effect */
+}
+
+.checkout-btn:hover {
+  background-color: #2e8b00; /* Darker green on hover */
+  transform: translateY(-2px); /* Slight lift on hover */
+}

@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|c:\\dev\\onlineartgallery\\artgallery\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|c:\\dev\\onlineartgallery\\artgallery\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|c:\\dev\\onlineartgallery\\artgallery\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|c:\\dev\\onlineartgallery\\artgallery\\models\\artwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|solutionrelative:models\\artwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|c:\\dev\\onlineartgallery\\artgallery\\controllers\\artworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|solutionrelative:controllers\\artworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|c:\\dev\\onlineartgallery\\artgallery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|c:\\dev\\onlineartgallery\\artgallery\\artgallery.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|solutionrelative:artgallery.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|c:\\dev\\onlineartgallery\\artgallery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|c:\\dev\\onlineartgallery\\artgallery\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|c:\\dev\\onlineartgallery\\artgallery\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|c:\\dev\\onlineartgallery\\artgallery\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|c:\\dev\\onlineartgallery\\artgallery\\artgallery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27FA812E-0C97-428F-8A18-EA80C2522200}|ArtGallery.csproj|solutionrelative:artgallery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:34:51.798Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArtGallery.http",
+              "DocumentMoniker": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\ArtGallery.http",
+              "RelativeDocumentMoniker": "ArtGallery.http",
+              "ToolTip": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\ArtGallery.http",
+              "RelativeToolTip": "ArtGallery.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-30T12:28:07.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:36:11.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Artwork.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Models\\Artwork.cs",
+              "RelativeDocumentMoniker": "Models\\Artwork.cs",
+              "ToolTip": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Models\\Artwork.cs",
+              "RelativeToolTip": "Models\\Artwork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:04:04.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:05:27.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArtWorkController.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Controllers\\ArtWorkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArtWorkController.cs",
+              "ToolTip": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Controllers\\ArtWorkController.cs",
+              "RelativeToolTip": "Controllers\\ArtWorkController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:21:41.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAEUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:49:35.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:37:49.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T07:43:43.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:18:37.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:17:24.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArtGallery.csproj",
+              "DocumentMoniker": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\ArtGallery.csproj",
+              "RelativeDocumentMoniker": "ArtGallery.csproj",
+              "ToolTip": "C:\\Dev\\OnlineArtGallery\\ArtGallery\\ArtGallery.csproj",
+              "RelativeToolTip": "ArtGallery.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T06:43:50.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

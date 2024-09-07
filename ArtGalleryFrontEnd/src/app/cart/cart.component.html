@@ -1,0 +1,11 @@
+<section class="cart">
+  <h2>Shopping Cart (2)</h2>
+
+  <div *ngFor="let item of staticProducts" class="cart-item">
+    <img [src]="item.imageUrl" alt="{{ item.name }}">
+    <h5>{{ item.name }}</h5>
+    <p>&#8377;{{ item.price }}</p>
+  </div>
+
+  <button class="checkout-btn" (click)="onCheckoutClick()">Proceed to Checkout</button>
+</section>

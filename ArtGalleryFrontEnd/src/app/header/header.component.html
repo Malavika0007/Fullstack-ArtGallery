@@ -1,0 +1,22 @@
+<nav class="nav">
+  <h1><a routerLink="">ONLINE ART GALLERY</a></h1>
+  <div *ngIf="isHomePage()" class="nav-search">
+    <!-- Your search input and logic here -->
+  </div>
+  <div [ngSwitch]="menuType">
+    <ul *ngSwitchCase="'default'" >
+      <li><a routerLink="userauth">Login/Sign-up</a></li>
+      <li><a routerLink="">Home</a></li>
+      <li><a href="/cart">Cart({{cartItems}})</a></li>
+    </ul>
+    <ul *ngSwitchCase="'user'" >
+      <li><a>{{userName | titlecase}}</a></li>
+      <li><a routerLink="my-orders">My Orders</a></li>
+      <li><a (click)="userLogout()">Logout</a></li>
+      <li><a [routerLink]="cartItems > 0 ? 'cart-page' : null">Cart({{cartItems}})</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- Display product-details component only on the Home page -->
+<app-product-details *ngIf="isHomePage()"></app-product-details>

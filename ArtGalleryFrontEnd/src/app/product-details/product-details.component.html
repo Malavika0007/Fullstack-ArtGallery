@@ -1,0 +1,28 @@
+<section class="product-details">
+  <h2>Featured Products</h2>
+
+  <div class="filter-bar">
+    <label for="categoryFilter">Filter by Category:</label>
+    <select id="categoryFilter" [(ngModel)]="selectedCategory">
+      <option value="">All</option>
+      <option *ngFor="let category of categories">{{ category }}</option>
+    </select>
+  </div>
+
+  <div class="product-list" *ngIf="products">
+    <div class="product-card" *ngFor="let product of filteredProducts">
+      <img [src]="product.imageUrl" alt="{{ product.name }}">
+      <h3>{{ product.name }}</h3>
+      <p *ngIf="product.category">{{ product.category }}</p>
+      <p>{{ product.description }}</p>
+      <span class="price">&#36;{{ product.price }}</span>
+      <!-- Add to Cart button -->
+      <button (click)="addToCart(product)">Add to Cart</button>
+      <!-- View Details button -->
+      <button (click)="redirectToWiki(product.wikiLink)">View Details</button>
+
+    </div>
+  </div>
+
+  <p *ngIf="!products">Loading products...</p>
+</section>
